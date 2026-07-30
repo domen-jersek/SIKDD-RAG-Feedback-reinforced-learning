@@ -1,0 +1,9 @@
+experiment_id,method,n,wilcoxon_stat,p_value,significant_at_0_05
+laplace_v1,M1_global_feedback,250,12054.0,0.3716243993281544,False
+laplace_v1,M2_team_only_feedback,250,11912.0,0.41284095618643324,False
+laplace_v1,M3_type_only_feedback,250,12132.0,0.6298327539283902,False
+laplace_v1,M4_team_type_feedback,250,5412.0,0.6383564540307358,False
+laplace_v1,M5_team_type_static_gate_0.62,250,270.0,0.8600672783795744,False
+laplace_v1,M5_team_type_static_gate_0.656,250,342.0,0.6880195610428927,False
+laplace_v1,M5_team_type_static_gate_0.7,250,473.0,0.46776700842133323,False
+laplace_v1,MOracle_perfect_gate,250,0.0,3.6060528034893936e-14,True
